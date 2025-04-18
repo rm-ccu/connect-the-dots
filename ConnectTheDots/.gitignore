@@ -1,0 +1,23 @@
+# Build Output
+**/Debug/
+**/Release/
+**/*.obj
+**/*.exe
+**/*.log
+**/*.ilk
+**/*.pdb
+
+# Visual Studio-Specific
+.vs/
+*.VC.db
+*.suo
+*.user
+*.opensdf
+*.sdf
+
+# Other
+*.tmp
+*.bak
+*.cache
+.idea/
+.vscode/
